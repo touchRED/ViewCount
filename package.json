@@ -1,0 +1,15 @@
+{
+  "name": "viewcount",
+  "description": "User count app",
+  "author": "Connor Trotter",
+  "version": "0.0.1-1",
+  "dependencies": {
+    "socket.io": "0.9.x"
+  },
+  "scripts": {
+    "start": "app.js"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
